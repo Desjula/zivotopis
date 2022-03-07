@@ -12,3 +12,7 @@ h2{
 text{
     font-family: serif; 
 }
+
+img{
+    width: 200px;
+}
