@@ -15,4 +15,9 @@ text{
 
 img{
     width: 200px;
+    border-radius: 15%;
+}
+
+.button{
+    background-color: beige;
 }
